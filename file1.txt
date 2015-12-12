@@ -1,1 +1,2 @@
 A file can not be empty\!
+Adding some text
